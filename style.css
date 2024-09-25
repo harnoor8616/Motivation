@@ -1,0 +1,20 @@
+div {
+    align-content: center;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+html {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.container {
+    margin-top: 5%;
+}
+
+.h1 {
+    text-transform: uppercase;
+}
